@@ -1,0 +1,11 @@
+.headre {
+position: fixed;
+top: 0;
+right: 0px;
+left: 0px;
+}
+
+.header img{
+    width:150px;
+    height: 150px;
+}
